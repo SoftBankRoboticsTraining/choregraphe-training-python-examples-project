@@ -10,12 +10,15 @@
     </BehaviorDescriptions>
     <Dialogs>
         <Dialog name="dlg_Python_in_QiChat" src="4_Python_in_QiChat/dlg_Python_in_QiChat/dlg_Python_in_QiChat.dlg" />
+        <Dialog name="ExampleDialog" src="0_Scratch_Pad/ExampleDialog/ExampleDialog.dlg" />
     </Dialogs>
     <Resources>
         <File name="README" src="README.md" />
+        <File name="README" src="README.py" />
     </Resources>
     <Topics>
         <Topic name="dlg_Python_in_QiChat_enu" src="4_Python_in_QiChat/dlg_Python_in_QiChat/dlg_Python_in_QiChat_enu.top" topicName="dlg_Python_in_QiChat" language="en_US" />
+        <Topic name="ExampleDialog_enu" src="0_Scratch_Pad/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
     </Topics>
     <IgnoredPaths />
     <Translations auto-fill="en_US">
